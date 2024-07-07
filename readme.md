@@ -1,4 +1,4 @@
-![Logo](Images/LOGO.png)
+![Logo](Images/RTFD-LOGO.jpeg)
 # REAL TIME ATTENDANCE SYSTEM 
 ## AN OPENCV PROJECT 
 
