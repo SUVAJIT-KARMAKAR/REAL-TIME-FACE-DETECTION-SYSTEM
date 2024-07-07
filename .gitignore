@@ -1,0 +1,10 @@
+
+__pycache__
+.vscode
+etc
+Lib
+model_training
+Scripts
+share
+visitor_database/
+visitor_history/
